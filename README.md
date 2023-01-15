@@ -21,8 +21,8 @@ This is a solution to the [Skilled e-learning landing page challenge on Frontend
 
 ### Links
 
-- Solution URL: [Qr-Code-Component](https://github.com/lashasuxa/skilled-elearning-landing-page)
-- Live Site URL: [Qr-Code-Component](https://lashasuxa.github.io/skilled-elearning-landing-page/)
+- Solution URL: [Skilled e-learning landing](https://github.com/lashasuxa/skilled-elearning-landing-page)
+- Live Site URL: [Skilled e-learning landing](https://lashasuxa.github.io/skilled-elearning-landing-page/)
 
 ## My process
 
